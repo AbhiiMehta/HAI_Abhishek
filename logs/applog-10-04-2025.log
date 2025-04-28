@@ -1,0 +1,119 @@
+[INFO] 10-04-2025 16:31:05 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 10-04-2025 16:31:06 [main] [MethodUtil] - ✅ Scrolled to element Sign In
+[INFO] 10-04-2025 16:31:16 [main] [MethodUtil] - ✅ Scrolled to element Email
+[INFO] 10-04-2025 16:31:17 [main] [MethodUtil] - ✅ Scrolled to element Password
+[INFO] 10-04-2025 16:31:18 [main] [MethodUtil] - ✅ Scrolled to element Submit
+[INFO] 10-04-2025 16:31:35 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 10-04-2025 16:31:36 [main] [MethodUtil] - ✅ Scrolled to element Manage Account
+[INFO] 10-04-2025 16:34:19 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 10-04-2025 16:34:20 [main] [MethodUtil] - ✅ Scrolled to element Sign In
+[INFO] 10-04-2025 16:34:29 [main] [MethodUtil] - ✅ Scrolled to element Email
+[INFO] 10-04-2025 16:34:30 [main] [MethodUtil] - ✅ Scrolled to element Password
+[INFO] 10-04-2025 16:34:31 [main] [MethodUtil] - ✅ Scrolled to element Submit
+[INFO] 10-04-2025 16:34:48 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 10-04-2025 16:34:49 [main] [MethodUtil] - ✅ Scrolled to element Manage Account
+[INFO] 10-04-2025 16:34:50 [main] [MethodUtil] - ✅ Scrolled to element Billing pref
+[INFO] 10-04-2025 16:34:51 [main] [MethodUtil] - ✅ Scrolled to element Add Address
+[INFO] 10-04-2025 16:34:52 [main] [MethodUtil] - ✅ Scrolled to element BusinessName
+[INFO] 10-04-2025 16:34:52 [main] [MethodUtil] - ✅ Scrolled to element Address Name
+[INFO] 10-04-2025 16:34:53 [main] [MethodUtil] - ✅ Scrolled to element AddressLine1 
+[INFO] 10-04-2025 16:34:53 [main] [MethodUtil] - ✅ Scrolled to element AddressLine2 
+[INFO] 10-04-2025 16:34:53 [main] [MethodUtil] - ✅ Scrolled to element cith
+[INFO] 10-04-2025 16:34:54 [main] [MethodUtil] - ✅ Scrolled to element Country
+[INFO] 10-04-2025 16:34:55 [main] [MethodUtil] - Text Afghanistan is retrieved from country
+[INFO] 10-04-2025 16:34:55 [main] [MethodUtil] - ✅ Scrolled to element country
+[INFO] 10-04-2025 16:34:55 [main] [MethodUtil] - ✅ Scrolled to element State
+[INFO] 10-04-2025 16:34:56 [main] [MethodUtil] - ✅ Scrolled to element postal code
+[INFO] 10-04-2025 16:34:57 [main] [MethodUtil] - ✅ Scrolled to element Save
+[INFO] 10-04-2025 16:34:58 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 10-04-2025 16:35:16 [main] [MethodUtil] - ✅ Scrolled to element Approve Button
+[INFO] 10-04-2025 16:35:37 [main] [MethodUtil] - ✅ Scrolled to element Terms Of Use Checkbox
+[INFO] 10-04-2025 16:35:38 [main] [MethodUtil] - ✅ Scrolled to element Approve Quote
+[INFO] 10-04-2025 16:35:40 [main] [MethodUtil] - ✅ Scrolled to element Select Address
+[INFO] 10-04-2025 16:35:40 [main] [MethodUtil] - ✅ Scrolled to element Next
+[INFO] 10-04-2025 16:35:46 [main] [MethodUtil] - ✅ Scrolled to element Next
+[INFO] 10-04-2025 16:35:51 [main] [MethodUtil] - ✅ Scrolled to element Card Number
+[INFO] 10-04-2025 16:35:55 [main] [MethodUtil] - ✅ Scrolled to element Adfasf
+[INFO] 10-04-2025 16:35:55 [main] [MethodUtil] - ✅ Scrolled to element Expiry Month
+[INFO] 10-04-2025 16:35:55 [main] [MethodUtil] - ✅ Scrolled to element Year
+[INFO] 10-04-2025 16:35:56 [main] [MethodUtil] - ✅ Scrolled to element Security Code
+[INFO] 10-04-2025 16:35:56 [main] [MethodUtil] - ✅ Scrolled to element Submit Button
+[INFO] 10-04-2025 16:39:54 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 10-04-2025 16:39:55 [main] [MethodUtil] - ✅ Scrolled to element Sign In
+[INFO] 10-04-2025 16:40:05 [main] [MethodUtil] - ✅ Scrolled to element Email
+[INFO] 10-04-2025 16:40:06 [main] [MethodUtil] - ✅ Scrolled to element Password
+[INFO] 10-04-2025 16:40:07 [main] [MethodUtil] - ✅ Scrolled to element Submit
+[INFO] 10-04-2025 16:40:21 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 10-04-2025 16:40:22 [main] [MethodUtil] - ✅ Scrolled to element Manage Account
+[INFO] 10-04-2025 16:44:05 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 10-04-2025 16:44:06 [main] [MethodUtil] - ✅ Scrolled to element Sign In
+[INFO] 10-04-2025 16:44:15 [main] [MethodUtil] - ✅ Scrolled to element Email
+[INFO] 10-04-2025 16:44:15 [main] [MethodUtil] - ✅ Scrolled to element Password
+[INFO] 10-04-2025 16:44:16 [main] [MethodUtil] - ✅ Scrolled to element Submit
+[INFO] 10-04-2025 16:44:30 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 10-04-2025 16:44:31 [main] [MethodUtil] - ✅ Scrolled to element Manage Account
+[INFO] 10-04-2025 16:44:32 [main] [MethodUtil] - ✅ Scrolled to element Profile Mangement
+[INFO] 10-04-2025 16:45:54 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 10-04-2025 16:45:55 [main] [MethodUtil] - ✅ Scrolled to element Sign In
+[INFO] 10-04-2025 16:46:05 [main] [MethodUtil] - ✅ Scrolled to element Email
+[INFO] 10-04-2025 16:46:06 [main] [MethodUtil] - ✅ Scrolled to element Password
+[INFO] 10-04-2025 16:46:08 [main] [MethodUtil] - ✅ Scrolled to element Submit
+[INFO] 10-04-2025 16:46:23 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 10-04-2025 16:46:24 [main] [MethodUtil] - ✅ Scrolled to element Manage Account
+[INFO] 10-04-2025 16:46:25 [main] [MethodUtil] - ✅ Scrolled to element Billing pref
+[INFO] 10-04-2025 16:46:26 [main] [MethodUtil] - ✅ Scrolled to element Add Address
+[INFO] 10-04-2025 16:46:27 [main] [MethodUtil] - ✅ Scrolled to element cith
+[INFO] 10-04-2025 16:46:28 [main] [MethodUtil] - ✅ Scrolled to element Country
+[INFO] 10-04-2025 16:46:29 [main] [MethodUtil] - Text Afghanistan is retrieved from country
+[INFO] 10-04-2025 16:46:29 [main] [MethodUtil] - ✅ Scrolled to element country
+[INFO] 10-04-2025 16:46:30 [main] [MethodUtil] - ✅ Scrolled to element State
+[INFO] 10-04-2025 16:46:31 [main] [MethodUtil] - ✅ Scrolled to element postal code
+[INFO] 10-04-2025 16:46:32 [main] [MethodUtil] - ✅ Scrolled to element Save
+[INFO] 10-04-2025 16:51:57 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 10-04-2025 16:51:58 [main] [MethodUtil] - ✅ Scrolled to element Sign In
+[INFO] 10-04-2025 16:52:07 [main] [MethodUtil] - ✅ Scrolled to element Email
+[INFO] 10-04-2025 16:52:07 [main] [MethodUtil] - ✅ Scrolled to element Password
+[INFO] 10-04-2025 16:52:08 [main] [MethodUtil] - ✅ Scrolled to element Submit
+[INFO] 10-04-2025 16:52:23 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 10-04-2025 16:52:23 [main] [MethodUtil] - ✅ Scrolled to element Manage Account
+[INFO] 10-04-2025 16:52:25 [main] [MethodUtil] - ✅ Scrolled to element Billing pref
+[INFO] 10-04-2025 16:52:26 [main] [MethodUtil] - ✅ Scrolled to element Add Address
+[INFO] 10-04-2025 16:52:27 [main] [MethodUtil] - ✅ Scrolled to element cith
+[INFO] 10-04-2025 16:52:27 [main] [MethodUtil] - ✅ Scrolled to element Country
+[INFO] 10-04-2025 16:52:28 [main] [MethodUtil] - Text Afghanistan is retrieved from country
+[INFO] 10-04-2025 16:52:29 [main] [MethodUtil] - ✅ Scrolled to element country
+[INFO] 10-04-2025 16:52:29 [main] [MethodUtil] - ✅ Scrolled to element State
+[INFO] 10-04-2025 16:52:30 [main] [MethodUtil] - ✅ Scrolled to element postal code
+[INFO] 10-04-2025 16:52:30 [main] [MethodUtil] - ✅ Scrolled to element Save
+[INFO] 10-04-2025 16:54:10 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 10-04-2025 16:54:11 [main] [MethodUtil] - ✅ Scrolled to element Sign In
+[INFO] 10-04-2025 16:54:21 [main] [MethodUtil] - ✅ Scrolled to element Email
+[INFO] 10-04-2025 16:54:21 [main] [MethodUtil] - ✅ Scrolled to element Password
+[INFO] 10-04-2025 16:54:22 [main] [MethodUtil] - ✅ Scrolled to element Submit
+[INFO] 10-04-2025 16:54:37 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 10-04-2025 16:54:37 [main] [MethodUtil] - ✅ Scrolled to element Manage Account
+[INFO] 10-04-2025 16:54:39 [main] [MethodUtil] - ✅ Scrolled to element Billing pref
+[INFO] 10-04-2025 16:54:40 [main] [MethodUtil] - ✅ Scrolled to element Add Address
+[INFO] 10-04-2025 16:54:44 [main] [MethodUtil] - ✅ Scrolled to element citY
+[INFO] 10-04-2025 16:54:44 [main] [MethodUtil] - ✅ Scrolled to element Country
+[INFO] 10-04-2025 16:54:45 [main] [MethodUtil] - Text Afghanistan is retrieved from country
+[INFO] 10-04-2025 16:54:45 [main] [MethodUtil] - ✅ Scrolled to element country
+[INFO] 10-04-2025 16:54:46 [main] [MethodUtil] - ✅ Scrolled to element State
+[INFO] 10-04-2025 16:54:46 [main] [MethodUtil] - ✅ Scrolled to element postal code
+[INFO] 10-04-2025 16:54:47 [main] [MethodUtil] - ✅ Scrolled to element Save
+[INFO] 10-04-2025 16:56:06 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 10-04-2025 16:56:07 [main] [MethodUtil] - ✅ Scrolled to element Sign In
+[INFO] 10-04-2025 16:56:16 [main] [MethodUtil] - ✅ Scrolled to element Email
+[INFO] 10-04-2025 16:56:17 [main] [MethodUtil] - ✅ Scrolled to element Password
+[INFO] 10-04-2025 16:56:17 [main] [MethodUtil] - ✅ Scrolled to element Submit
+[INFO] 10-04-2025 16:56:31 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 10-04-2025 16:56:32 [main] [MethodUtil] - ✅ Scrolled to element Manage Account
+[INFO] 10-04-2025 16:56:33 [main] [MethodUtil] - ✅ Scrolled to element Billing pref
+[INFO] 10-04-2025 16:56:34 [main] [MethodUtil] - ✅ Scrolled to element Add Address
+[INFO] 10-04-2025 16:56:38 [main] [MethodUtil] - ✅ Scrolled to element citY
+[INFO] 10-04-2025 16:56:38 [main] [MethodUtil] - ✅ Scrolled to element Country
+[INFO] 10-04-2025 16:56:39 [main] [MethodUtil] - Text Afghanistan is retrieved from country
+[INFO] 10-04-2025 16:56:39 [main] [MethodUtil] - ✅ Scrolled to element country
+[INFO] 10-04-2025 16:56:40 [main] [MethodUtil] - ✅ Scrolled to element State
+[INFO] 10-04-2025 16:56:40 [main] [MethodUtil] - ✅ Scrolled to element postal code
+[INFO] 10-04-2025 16:56:41 [main] [MethodUtil] - ✅ Scrolled to element Save
