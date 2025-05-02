@@ -30,6 +30,6 @@ public class Hooks {
     public static void after_All()
     {
         ExtentReportManager.flushReports();
-    //    driver.quit();
+        driver.quit();
     }
 }

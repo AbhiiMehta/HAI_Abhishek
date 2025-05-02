@@ -7,7 +7,10 @@ import pages.QuotePage;
 
 @Test
 @CucumberOptions(features= //{"src/main/resources/feat;urefiles/Login.feature",
+        {   "src/main/resources/featurefiles/QuoteCreation.feature",
         "src/main/resources/featurefiles/AccManage.feature",
+        "src/main/resources/featurefiles/Filter.feature"},
+
         glue = {"stepDefinitions","hooks"
         },
         plugin = {

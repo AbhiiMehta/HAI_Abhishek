@@ -1,467 +1,294 @@
-[INFO] 28-04-2025 10:32:20 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 10:32:21 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 10:32:30 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 10:32:31 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 10:32:32 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 10:33:06 [main] [MethodUtil] - ✅ Scrolled to element Path
-[INFO] 28-04-2025 10:33:22 [main] [MethodUtil] - ✅ Scrolled to element Next Button
-[INFO] 28-04-2025 10:33:22 [main] [MethodUtil] - ✅ Scrolled to element Translate From
-[INFO] 28-04-2025 10:33:23 [main] [MethodUtil] - ✅ Scrolled to element Translate to
-[INFO] 28-04-2025 10:47:16 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 10:47:17 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 10:47:26 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 10:47:27 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 10:47:28 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 10:47:42 [main] [MethodUtil] - ✅ Scrolled to element Query Button
-[INFO] 28-04-2025 10:47:44 [main] [MethodUtil] - ✅ Scrolled to element Reject Reason
-[INFO] 28-04-2025 10:47:45 [main] [MethodUtil] - Text Click to select is retrieved from Reject Reasons
-[INFO] 28-04-2025 10:47:45 [main] [MethodUtil] - Text I'd like to add or remove a language. is retrieved from Reject Reasons
-[INFO] 28-04-2025 10:47:45 [main] [MethodUtil] - Text I need my translation sooner. is retrieved from Reject Reasons
-[INFO] 28-04-2025 10:47:46 [main] [MethodUtil] - Text The quote seems a bit expensive. is retrieved from Reject Reasons
-[INFO] 28-04-2025 10:47:46 [main] [MethodUtil] - Text Reject quote altogether. is retrieved from Reject Reasons
-[INFO] 28-04-2025 10:47:46 [main] [MethodUtil] - Text Other is retrieved from Reject Reasons
-[INFO] 28-04-2025 10:47:46 [main] [MethodUtil] - ✅ Scrolled to element Reject Reasons
-[INFO] 28-04-2025 10:47:48 [main] [MethodUtil] - ✅ Scrolled to element Write Reason
-[INFO] 28-04-2025 10:47:49 [main] [MethodUtil] - ✅ Scrolled to element Send
-[INFO] 28-04-2025 11:00:53 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 11:00:54 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 11:01:04 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 11:01:05 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 11:01:06 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 11:09:02 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 11:09:04 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 11:09:15 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 11:09:17 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 11:09:18 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 11:09:34 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 11:12:19 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 11:12:20 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 11:12:29 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 11:12:30 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 11:12:31 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 11:12:45 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 11:12:45 [main] [MethodUtil] - ✅ Scrolled to element Translate from
-[INFO] 28-04-2025 11:12:50 [main] [MethodUtil] - ✅ Scrolled to element hui
-[INFO] 28-04-2025 11:12:53 [main] [MethodUtil] - ✅ Scrolled to element Arabic (Saudi Arabia)
-[INFO] 28-04-2025 11:22:26 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 11:22:27 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 11:22:37 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 11:22:38 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 11:22:38 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 11:22:53 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 11:22:53 [main] [MethodUtil] - ✅ Scrolled to element Translate from
-[INFO] 28-04-2025 11:22:57 [main] [MethodUtil] - ✅ Scrolled to element hui
-[INFO] 28-04-2025 11:23:01 [main] [MethodUtil] - ✅ Scrolled to element Arabic (Saudi Arabia)
-[INFO] 28-04-2025 11:24:16 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 11:24:16 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 11:24:26 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 11:24:26 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 11:24:27 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 11:24:40 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 11:24:40 [main] [MethodUtil] - ✅ Scrolled to element Translate from
-[INFO] 28-04-2025 11:24:44 [main] [MethodUtil] - ✅ Scrolled to element hui
-[INFO] 28-04-2025 11:27:05 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 11:27:06 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 11:27:15 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 11:27:15 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 11:27:16 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 11:27:29 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 11:27:30 [main] [MethodUtil] - ✅ Scrolled to element Translate from
-[INFO] 28-04-2025 11:27:34 [main] [MethodUtil] - ✅ Scrolled to element hui
-[INFO] 28-04-2025 11:27:37 [main] [MethodUtil] - ✅ Scrolled to element Arabic (Saudi Arabia)
-[INFO] 28-04-2025 11:30:20 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 11:30:21 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 11:30:29 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 11:30:30 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 11:30:31 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 11:30:44 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 11:30:45 [main] [MethodUtil] - ✅ Scrolled to element Translate from
-[INFO] 28-04-2025 11:30:49 [main] [MethodUtil] - ✅ Scrolled to element hui
-[INFO] 28-04-2025 11:30:52 [main] [MethodUtil] - ✅ Scrolled to element Arabic (Saudi Arabia)
-[INFO] 28-04-2025 11:32:09 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 11:32:10 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 11:32:19 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 11:32:19 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 11:32:20 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 11:32:33 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 11:32:34 [main] [MethodUtil] - ✅ Scrolled to element Translate from
-[INFO] 28-04-2025 11:32:38 [main] [MethodUtil] - ✅ Scrolled to element hui
-[INFO] 28-04-2025 11:32:41 [main] [MethodUtil] - ✅ Scrolled to element Arabic (Saudi Arabia)
-[INFO] 28-04-2025 11:34:06 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 11:34:07 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 11:34:16 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 11:34:16 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 11:34:17 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 11:34:30 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 11:34:31 [main] [MethodUtil] - ✅ Scrolled to element Translate from
-[INFO] 28-04-2025 11:34:36 [main] [MethodUtil] - ✅ Scrolled to element hui
-[INFO] 28-04-2025 11:34:39 [main] [MethodUtil] - ✅ Scrolled to element Arabic (Saudi Arabia)
-[INFO] 28-04-2025 11:37:24 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 11:37:25 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 11:37:34 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 11:37:34 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 11:37:35 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 11:37:48 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 11:37:49 [main] [MethodUtil] - ✅ Scrolled to element Translate from
-[INFO] 28-04-2025 11:37:52 [main] [MethodUtil] - ✅ Scrolled to element hui
-[INFO] 28-04-2025 11:41:43 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 11:41:43 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 11:41:52 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 11:41:53 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 11:41:53 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 11:42:07 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 11:42:07 [main] [MethodUtil] - ✅ Scrolled to element Translate from
-[INFO] 28-04-2025 11:42:10 [main] [MethodUtil] - ✅ Scrolled to element hui
-[INFO] 28-04-2025 11:46:41 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 11:46:42 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 11:46:51 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 11:46:51 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 11:46:52 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 11:47:06 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 11:47:06 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
-[INFO] 28-04-2025 11:47:09 [main] [MethodUtil] - ✅ Scrolled to element hui
-[INFO] 28-04-2025 11:47:12 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
-[INFO] 28-04-2025 11:47:45 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 11:47:45 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 11:47:54 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 11:47:55 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 11:47:55 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 11:48:09 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 11:48:10 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
-[INFO] 28-04-2025 11:48:13 [main] [MethodUtil] - ✅ Scrolled to element hui
-[INFO] 28-04-2025 11:48:15 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
-[INFO] 28-04-2025 11:55:09 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 11:55:09 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 11:55:18 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 11:55:18 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 11:55:19 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 11:55:32 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 11:55:32 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
-[INFO] 28-04-2025 11:55:35 [main] [MethodUtil] - ✅ Scrolled to element hui
-[INFO] 28-04-2025 11:55:38 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
-[INFO] 28-04-2025 11:58:19 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 11:58:19 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 11:58:28 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 11:58:29 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 11:58:30 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 11:58:40 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 11:58:41 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
-[INFO] 28-04-2025 11:58:44 [main] [MethodUtil] - ✅ Scrolled to element hui
-[INFO] 28-04-2025 11:58:46 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
-[INFO] 28-04-2025 12:01:37 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 12:01:37 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 12:01:46 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 12:01:47 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 12:01:47 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 12:01:59 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 12:01:59 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
-[INFO] 28-04-2025 12:02:02 [main] [MethodUtil] - ✅ Scrolled to element hui
-[INFO] 28-04-2025 12:02:02 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
-[INFO] 28-04-2025 12:03:24 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 12:03:25 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 12:03:35 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 12:03:35 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 12:03:36 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 12:03:50 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 12:03:50 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
-[INFO] 28-04-2025 12:03:53 [main] [MethodUtil] - ✅ Scrolled to element hui
-[INFO] 28-04-2025 12:03:56 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
-[INFO] 28-04-2025 12:04:45 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 12:04:45 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 12:04:54 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 12:04:55 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 12:04:55 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 12:05:10 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 12:05:11 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
-[INFO] 28-04-2025 12:05:14 [main] [MethodUtil] - ✅ Scrolled to element hui
-[INFO] 28-04-2025 12:05:16 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
-[INFO] 28-04-2025 12:06:45 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 12:06:46 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 12:06:57 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 12:06:58 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 12:06:58 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 12:07:12 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 12:07:13 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
-[INFO] 28-04-2025 12:07:16 [main] [MethodUtil] - ✅ Scrolled to element hui
-[INFO] 28-04-2025 12:07:18 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
-[INFO] 28-04-2025 12:08:01 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 12:08:01 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 12:08:10 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 12:08:10 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 12:08:11 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 12:08:24 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 12:08:24 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
-[INFO] 28-04-2025 12:08:27 [main] [MethodUtil] - ✅ Scrolled to element hui
-[INFO] 28-04-2025 12:08:33 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
-[INFO] 28-04-2025 12:11:21 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 12:11:21 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 12:11:30 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 12:11:31 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 12:11:31 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 12:11:43 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 12:11:43 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
-[INFO] 28-04-2025 12:11:46 [main] [MethodUtil] - ✅ Scrolled to element hui
-[INFO] 28-04-2025 12:13:21 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 12:13:21 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 12:13:31 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 12:13:32 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 12:13:32 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 12:13:45 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 12:13:45 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
-[INFO] 28-04-2025 12:13:48 [main] [MethodUtil] - ✅ Scrolled to element hui
-[INFO] 28-04-2025 12:13:48 [main] [MethodUtil] - ✅ Scrolled to element Translate From Language
-[INFO] 28-04-2025 12:16:18 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 12:16:19 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 12:16:27 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 12:16:28 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 12:16:28 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 12:16:41 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 12:16:41 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
-[INFO] 28-04-2025 12:16:44 [main] [MethodUtil] - ✅ Scrolled to element hui
-[INFO] 28-04-2025 12:16:44 [main] [MethodUtil] - ✅ Scrolled to element Translate From Language
-[INFO] 28-04-2025 12:16:50 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
-[INFO] 28-04-2025 12:16:52 [main] [MethodUtil] - ✅ Scrolled to element Apply Button
-[INFO] 28-04-2025 12:19:04 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 12:19:05 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 12:19:13 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 12:19:14 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 12:19:14 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 12:19:28 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 12:19:28 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
-[INFO] 28-04-2025 12:19:31 [main] [MethodUtil] - ✅ Scrolled to element Translate from language
-[INFO] 28-04-2025 12:19:32 [main] [MethodUtil] - ✅ Scrolled to element Translate From Language
-[INFO] 28-04-2025 12:19:37 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
-[INFO] 28-04-2025 12:19:37 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
-[INFO] 28-04-2025 12:19:39 [main] [MethodUtil] - ✅ Scrolled to element Apply Button
-[INFO] 28-04-2025 12:20:52 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 12:20:53 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 12:21:02 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 12:21:02 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 12:21:03 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 12:22:08 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 12:22:09 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 12:22:17 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 12:22:18 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 12:22:18 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 12:22:30 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 12:22:31 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
-[INFO] 28-04-2025 12:22:34 [main] [MethodUtil] - ✅ Scrolled to element Translate from language
-[INFO] 28-04-2025 12:22:34 [main] [MethodUtil] - ✅ Scrolled to element Translate From Language
-[INFO] 28-04-2025 12:22:36 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
-[INFO] 28-04-2025 12:22:36 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
-[INFO] 28-04-2025 12:22:37 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
-[INFO] 28-04-2025 12:22:39 [main] [MethodUtil] - ✅ Scrolled to element Apply Button
-[INFO] 28-04-2025 12:24:01 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 12:24:01 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 12:24:10 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 12:24:11 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 12:24:11 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 12:24:38 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 12:24:39 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
-[INFO] 28-04-2025 12:24:42 [main] [MethodUtil] - ✅ Scrolled to element Translate from language
-[INFO] 28-04-2025 12:24:42 [main] [MethodUtil] - ✅ Scrolled to element Translate From Language
-[INFO] 28-04-2025 12:24:44 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
-[INFO] 28-04-2025 12:24:44 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
-[INFO] 28-04-2025 12:24:45 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
-[INFO] 28-04-2025 12:24:47 [main] [MethodUtil] - ✅ Scrolled to element Apply Button
-[INFO] 28-04-2025 12:32:58 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 12:32:58 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 12:33:07 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 12:33:07 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 12:33:08 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 12:33:20 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 12:33:20 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
-[INFO] 28-04-2025 12:33:23 [main] [MethodUtil] - ✅ Scrolled to element Translate from language
-[INFO] 28-04-2025 12:33:23 [main] [MethodUtil] - ✅ Scrolled to element Translate From Language
-[INFO] 28-04-2025 12:33:26 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
-[INFO] 28-04-2025 12:33:26 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
-[INFO] 28-04-2025 12:33:26 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
-[INFO] 28-04-2025 12:33:28 [main] [MethodUtil] - ✅ Scrolled to element Apply Button
-[INFO] 28-04-2025 13:02:17 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 13:02:17 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 13:02:26 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 13:02:26 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 13:02:27 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 13:03:08 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 13:03:08 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
-[INFO] 28-04-2025 13:03:11 [main] [MethodUtil] - ✅ Scrolled to element Translate from language
-[INFO] 28-04-2025 13:03:11 [main] [MethodUtil] - ✅ Scrolled to element Translate From Language
-[INFO] 28-04-2025 13:03:14 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
-[INFO] 28-04-2025 13:03:14 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
-[INFO] 28-04-2025 13:03:14 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
-[INFO] 28-04-2025 13:03:16 [main] [MethodUtil] - ✅ Scrolled to element Apply Button
-[INFO] 28-04-2025 13:04:14 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 13:04:14 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 13:04:23 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 13:04:24 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 13:04:24 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 13:04:38 [main] [MethodUtil] - ✅ Scrolled to element Clear Filter
-[INFO] 28-04-2025 13:05:33 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 13:05:34 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 13:05:42 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 13:05:43 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 13:05:43 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 13:06:10 [main] [MethodUtil] - ✅ Scrolled to element Clear Filter
-[INFO] 28-04-2025 13:06:10 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 13:06:10 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
-[INFO] 28-04-2025 13:06:13 [main] [MethodUtil] - ✅ Scrolled to element Translate from language
-[INFO] 28-04-2025 13:06:14 [main] [MethodUtil] - ✅ Scrolled to element Translate From Language
-[INFO] 28-04-2025 13:06:16 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
-[INFO] 28-04-2025 13:06:16 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
-[INFO] 28-04-2025 13:06:16 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
-[INFO] 28-04-2025 13:06:19 [main] [MethodUtil] - ✅ Scrolled to element Apply Button
-[INFO] 28-04-2025 13:08:21 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 13:08:22 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 13:08:31 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 13:08:31 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 13:08:32 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 13:08:44 [main] [MethodUtil] - ✅ Scrolled to element Clear Filter
-[INFO] 28-04-2025 13:08:45 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 13:08:45 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
-[INFO] 28-04-2025 13:08:48 [main] [MethodUtil] - ✅ Scrolled to element Translate from language
-[INFO] 28-04-2025 13:08:48 [main] [MethodUtil] - ✅ Scrolled to element Translate From Language
-[INFO] 28-04-2025 13:08:50 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
-[INFO] 28-04-2025 13:08:51 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
-[INFO] 28-04-2025 13:08:51 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
-[INFO] 28-04-2025 13:08:53 [main] [MethodUtil] - ✅ Scrolled to element Apply Button
-[INFO] 28-04-2025 13:09:20 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 13:09:20 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 13:09:29 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 13:09:29 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 13:09:30 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 13:09:43 [main] [MethodUtil] - ✅ Scrolled to element Clear Filter
-[INFO] 28-04-2025 13:09:44 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 13:09:44 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
-[INFO] 28-04-2025 13:09:47 [main] [MethodUtil] - ✅ Scrolled to element Translate from language
-[INFO] 28-04-2025 13:09:47 [main] [MethodUtil] - ✅ Scrolled to element Translate From Language
-[INFO] 28-04-2025 13:09:49 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
-[INFO] 28-04-2025 13:09:50 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
-[INFO] 28-04-2025 13:09:50 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
-[INFO] 28-04-2025 13:09:52 [main] [MethodUtil] - ✅ Scrolled to element Apply Button
-[INFO] 28-04-2025 13:10:36 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 13:10:37 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 13:10:46 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 13:10:46 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 13:10:47 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 13:11:03 [main] [MethodUtil] - ✅ Scrolled to element Clear Filter
-[INFO] 28-04-2025 13:11:04 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
-[INFO] 28-04-2025 13:11:04 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
-[INFO] 28-04-2025 13:11:07 [main] [MethodUtil] - ✅ Scrolled to element Translate from language
-[INFO] 28-04-2025 13:11:07 [main] [MethodUtil] - ✅ Scrolled to element Translate From Language
-[INFO] 28-04-2025 13:11:10 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
-[INFO] 28-04-2025 13:11:10 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
-[INFO] 28-04-2025 13:11:10 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
-[INFO] 28-04-2025 13:11:12 [main] [MethodUtil] - ✅ Scrolled to element Apply Button
-[INFO] 28-04-2025 13:15:44 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 13:15:44 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 13:15:53 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 13:15:54 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 13:15:54 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 13:18:04 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 13:18:05 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 13:18:14 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 13:18:15 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 13:18:16 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 13:18:50 [main] [MethodUtil] - ✅ Scrolled to element Path
-[INFO] 28-04-2025 13:19:22 [main] [MethodUtil] - ✅ Scrolled to element Next Button
-[INFO] 28-04-2025 13:19:22 [main] [MethodUtil] - ✅ Scrolled to element Translate From
-[INFO] 28-04-2025 13:19:24 [main] [MethodUtil] - Text Arabic (Saudi Arabia) is retrieved from Translate From Option
-[INFO] 28-04-2025 13:19:24 [main] [MethodUtil] - Text Chinese (Simplified, China) is retrieved from Translate From Option
-[INFO] 28-04-2025 13:19:24 [main] [MethodUtil] - ✅ Scrolled to element Translate From Option
-[INFO] 28-04-2025 13:19:24 [main] [MethodUtil] - ✅ Scrolled to element Translate to
-[INFO] 28-04-2025 13:19:25 [main] [MethodUtil] - ✅ Scrolled to element Translate to
-[INFO] 28-04-2025 13:19:26 [main] [MethodUtil] - ✅ Scrolled to element Next Button
-[INFO] 28-04-2025 13:19:26 [main] [MethodUtil] - ✅ Scrolled to element Send Me A Quote
-[INFO] 28-04-2025 13:19:35 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 13:23:24 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 13:23:25 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 13:23:34 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 13:23:35 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 13:23:36 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 13:25:44 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 13:25:45 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 13:25:55 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 13:25:56 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 13:25:56 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 13:27:18 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 13:27:19 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 13:27:29 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 13:27:30 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 13:27:31 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 13:29:16 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 13:29:17 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 13:29:26 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 13:29:27 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 13:29:28 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 13:29:42 [main] [MethodUtil] - ✅ Scrolled to element Review Button
-[INFO] 28-04-2025 13:29:44 [main] [MethodUtil] - ✅ Scrolled to element Reject Reason
-[INFO] 28-04-2025 13:29:45 [main] [MethodUtil] - Text Click to select is retrieved from Reject Reasons
-[INFO] 28-04-2025 13:29:45 [main] [MethodUtil] - Text I'd like to add or remove a language. is retrieved from Reject Reasons
-[INFO] 28-04-2025 13:29:45 [main] [MethodUtil] - Text I need my translation sooner. is retrieved from Reject Reasons
-[INFO] 28-04-2025 13:29:45 [main] [MethodUtil] - Text The quote seems a bit expensive. is retrieved from Reject Reasons
-[INFO] 28-04-2025 13:29:45 [main] [MethodUtil] - Text Reject quote altogether. is retrieved from Reject Reasons
-[INFO] 28-04-2025 13:29:45 [main] [MethodUtil] - Text Other is retrieved from Reject Reasons
-[INFO] 28-04-2025 13:29:45 [main] [MethodUtil] - ✅ Scrolled to element Reject Reasons
-[INFO] 28-04-2025 13:29:48 [main] [MethodUtil] - ✅ Scrolled to element Write Reason
-[INFO] 28-04-2025 13:29:48 [main] [MethodUtil] - ✅ Scrolled to element Send
-[INFO] 28-04-2025 14:07:22 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 14:07:23 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 14:07:37 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 14:07:37 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 14:07:38 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 14:07:56 [main] [MethodUtil] - ✅ Scrolled to element Approve Button
-[INFO] 28-04-2025 14:08:17 [main] [MethodUtil] - ✅ Scrolled to element Terms Of Use Checkbox
-[INFO] 28-04-2025 14:08:18 [main] [MethodUtil] - ✅ Scrolled to element Approve Quote
-[INFO] 28-04-2025 14:08:21 [main] [MethodUtil] - ✅ Scrolled to element Select Address
-[INFO] 28-04-2025 14:08:21 [main] [MethodUtil] - ✅ Scrolled to element Next
-[INFO] 28-04-2025 14:08:27 [main] [MethodUtil] - ✅ Scrolled to element Next
-[INFO] 28-04-2025 14:08:33 [main] [MethodUtil] - ✅ Scrolled to element Card Number
-[INFO] 28-04-2025 14:08:36 [main] [MethodUtil] - ✅ Scrolled to element Adfasf
-[INFO] 28-04-2025 14:08:37 [main] [MethodUtil] - ✅ Scrolled to element Expiry Month
-[INFO] 28-04-2025 14:08:37 [main] [MethodUtil] - ✅ Scrolled to element Year
-[INFO] 28-04-2025 14:08:37 [main] [MethodUtil] - ✅ Scrolled to element Security Code
-[INFO] 28-04-2025 14:08:38 [main] [MethodUtil] - ✅ Scrolled to element Submit Button
-[INFO] 28-04-2025 15:12:36 [main] [MethodUtil] - ✅ Scrolled to element HomePage
-[INFO] 28-04-2025 15:12:51 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 15:12:53 [main] [MethodUtil] - ✅ Scrolled to element Sign In
-[INFO] 28-04-2025 15:13:03 [main] [MethodUtil] - ✅ Scrolled to element Email
-[INFO] 28-04-2025 15:13:05 [main] [MethodUtil] - ✅ Scrolled to element Password
-[INFO] 28-04-2025 15:13:06 [main] [MethodUtil] - ✅ Scrolled to element Submit
-[INFO] 28-04-2025 15:13:42 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 15:13:42 [main] [MethodUtil] - ✅ Scrolled to element Manage Account
-[INFO] 28-04-2025 15:13:44 [main] [MethodUtil] - ✅ Scrolled to element Profile Mangement
-[INFO] 28-04-2025 15:14:45 [main] [MethodUtil] - ✅ Scrolled to element HomePage
-[INFO] 28-04-2025 15:15:00 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 15:15:41 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 15:15:42 [main] [MethodUtil] - ✅ Scrolled to element Manage Account
-[INFO] 28-04-2025 15:15:43 [main] [MethodUtil] - ✅ Scrolled to element Billing pref
-[INFO] 28-04-2025 15:15:44 [main] [MethodUtil] - ✅ Scrolled to element Add Address
-[INFO] 28-04-2025 15:15:48 [main] [MethodUtil] - ✅ Scrolled to element BusinessName
-[INFO] 28-04-2025 15:15:48 [main] [MethodUtil] - ✅ Scrolled to element Address Name
-[INFO] 28-04-2025 15:15:49 [main] [MethodUtil] - ✅ Scrolled to element AddressLine1 
-[INFO] 28-04-2025 15:15:49 [main] [MethodUtil] - ✅ Scrolled to element AddressLine2 
-[INFO] 28-04-2025 15:15:50 [main] [MethodUtil] - ✅ Scrolled to element citY
-[INFO] 28-04-2025 15:15:50 [main] [MethodUtil] - ✅ Scrolled to element Country
-[INFO] 28-04-2025 15:15:52 [main] [MethodUtil] - Text Afghanistan is retrieved from country
-[INFO] 28-04-2025 15:15:52 [main] [MethodUtil] - ✅ Scrolled to element country
-[INFO] 28-04-2025 15:15:52 [main] [MethodUtil] - ✅ Scrolled to element State
-[INFO] 28-04-2025 15:15:53 [main] [MethodUtil] - ✅ Scrolled to element postal code
-[INFO] 28-04-2025 15:15:53 [main] [MethodUtil] - ✅ Scrolled to element Save
-[INFO] 28-04-2025 15:16:15 [main] [MethodUtil] - ✅ Scrolled to element HomePage
-[INFO] 28-04-2025 15:16:30 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 15:17:11 [main] [MethodUtil] - ✅ Scrolled to element Account Button
-[INFO] 28-04-2025 15:17:11 [main] [MethodUtil] - ✅ Scrolled to element Manage Account
-[INFO] 28-04-2025 15:17:13 [main] [MethodUtil] - ✅ Scrolled to element Billing pref
-[INFO] 28-04-2025 15:17:14 [main] [MethodUtil] - ✅ Scrolled to element Add Address
-[INFO] 28-04-2025 15:17:17 [main] [MethodUtil] - ✅ Scrolled to element BusinessName
-[INFO] 28-04-2025 15:17:17 [main] [MethodUtil] - ✅ Scrolled to element Address Name
-[INFO] 28-04-2025 15:17:18 [main] [MethodUtil] - ✅ Scrolled to element AddressLine1 
-[INFO] 28-04-2025 15:17:19 [main] [MethodUtil] - ✅ Scrolled to element AddressLine2 
-[INFO] 28-04-2025 15:17:19 [main] [MethodUtil] - ✅ Scrolled to element citY
-[INFO] 28-04-2025 15:17:20 [main] [MethodUtil] - ✅ Scrolled to element Country
-[INFO] 28-04-2025 15:17:21 [main] [MethodUtil] - Text Afghanistan is retrieved from country
-[INFO] 28-04-2025 15:17:21 [main] [MethodUtil] - ✅ Scrolled to element country
-[INFO] 28-04-2025 15:17:21 [main] [MethodUtil] - ✅ Scrolled to element State
-[INFO] 28-04-2025 15:17:22 [main] [MethodUtil] - ✅ Scrolled to element postal code
-[INFO] 28-04-2025 15:17:22 [main] [MethodUtil] - ✅ Scrolled to element Save
-[INFO] 28-04-2025 15:17:23 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 11:52:17 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 11:52:18 [main] [MethodUtil] - ✅ Scrolled to element Sign In
+[INFO] 02-05-2025 11:52:28 [main] [MethodUtil] - ✅ Scrolled to element Email
+[INFO] 02-05-2025 11:52:29 [main] [MethodUtil] - ✅ Scrolled to element Password
+[INFO] 02-05-2025 11:52:29 [main] [MethodUtil] - ✅ Scrolled to element Submit
+[INFO] 02-05-2025 11:52:44 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 11:53:19 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 11:53:20 [main] [MethodUtil] - ✅ Scrolled to element Manage Account
+[INFO] 02-05-2025 11:53:21 [main] [MethodUtil] - ✅ Scrolled to element Profile Mangement
+[INFO] 02-05-2025 11:54:22 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 11:54:43 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 11:55:18 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 11:55:19 [main] [MethodUtil] - ✅ Scrolled to element Manage Account
+[INFO] 02-05-2025 11:55:20 [main] [MethodUtil] - ✅ Scrolled to element Billing pref
+[INFO] 02-05-2025 11:55:21 [main] [MethodUtil] - ✅ Scrolled to element Add Address
+[INFO] 02-05-2025 11:55:25 [main] [MethodUtil] - ✅ Scrolled to element BusinessName
+[INFO] 02-05-2025 11:55:26 [main] [MethodUtil] - ✅ Scrolled to element Address Name
+[INFO] 02-05-2025 11:55:26 [main] [MethodUtil] - ✅ Scrolled to element AddressLine1 
+[INFO] 02-05-2025 11:55:27 [main] [MethodUtil] - ✅ Scrolled to element AddressLine2 
+[INFO] 02-05-2025 11:55:27 [main] [MethodUtil] - ✅ Scrolled to element citY
+[INFO] 02-05-2025 11:55:28 [main] [MethodUtil] - ✅ Scrolled to element Country
+[INFO] 02-05-2025 11:55:29 [main] [MethodUtil] - Text Afghanistan is retrieved from country
+[INFO] 02-05-2025 11:55:29 [main] [MethodUtil] - ✅ Scrolled to element country
+[INFO] 02-05-2025 11:55:29 [main] [MethodUtil] - ✅ Scrolled to element State
+[INFO] 02-05-2025 11:55:30 [main] [MethodUtil] - ✅ Scrolled to element postal code
+[INFO] 02-05-2025 11:55:31 [main] [MethodUtil] - ✅ Scrolled to element Save
+[INFO] 02-05-2025 11:56:12 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 11:56:33 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 11:57:09 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 11:57:09 [main] [MethodUtil] - ✅ Scrolled to element Manage Account
+[INFO] 02-05-2025 11:57:10 [main] [MethodUtil] - ✅ Scrolled to element Billing pref
+[INFO] 02-05-2025 11:57:12 [main] [MethodUtil] - ✅ Scrolled to element Add Address
+[INFO] 02-05-2025 11:57:15 [main] [MethodUtil] - ✅ Scrolled to element BusinessName
+[INFO] 02-05-2025 11:57:16 [main] [MethodUtil] - ✅ Scrolled to element Address Name
+[INFO] 02-05-2025 11:57:16 [main] [MethodUtil] - ✅ Scrolled to element AddressLine1 
+[INFO] 02-05-2025 11:57:17 [main] [MethodUtil] - ✅ Scrolled to element AddressLine2 
+[INFO] 02-05-2025 11:57:17 [main] [MethodUtil] - ✅ Scrolled to element citY
+[INFO] 02-05-2025 11:57:18 [main] [MethodUtil] - ✅ Scrolled to element Country
+[INFO] 02-05-2025 11:57:19 [main] [MethodUtil] - Text Afghanistan is retrieved from country
+[INFO] 02-05-2025 11:57:19 [main] [MethodUtil] - ✅ Scrolled to element country
+[INFO] 02-05-2025 11:57:19 [main] [MethodUtil] - ✅ Scrolled to element State
+[INFO] 02-05-2025 11:57:20 [main] [MethodUtil] - ✅ Scrolled to element postal code
+[INFO] 02-05-2025 11:57:21 [main] [MethodUtil] - ✅ Scrolled to element Save
+[INFO] 02-05-2025 11:57:22 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 11:57:40 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 11:58:27 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
+[INFO] 02-05-2025 11:58:28 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
+[INFO] 02-05-2025 11:58:31 [main] [MethodUtil] - ✅ Scrolled to element Translate from language
+[INFO] 02-05-2025 11:58:31 [main] [MethodUtil] - ✅ Scrolled to element Translate From Language
+[INFO] 02-05-2025 11:58:34 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
+[INFO] 02-05-2025 11:58:34 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
+[INFO] 02-05-2025 11:58:35 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
+[INFO] 02-05-2025 11:58:37 [main] [MethodUtil] - ✅ Scrolled to element Apply Button
+[INFO] 02-05-2025 12:03:29 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:03:31 [main] [MethodUtil] - ✅ Scrolled to element Sign In
+[INFO] 02-05-2025 12:10:47 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:10:48 [main] [MethodUtil] - ✅ Scrolled to element Sign In
+[INFO] 02-05-2025 12:10:58 [main] [MethodUtil] - ✅ Scrolled to element Email
+[INFO] 02-05-2025 12:10:59 [main] [MethodUtil] - ✅ Scrolled to element Password
+[INFO] 02-05-2025 12:11:00 [main] [MethodUtil] - ✅ Scrolled to element Submit
+[INFO] 02-05-2025 12:11:15 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 12:13:10 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:13:12 [main] [MethodUtil] - ✅ Scrolled to element Sign In
+[INFO] 02-05-2025 12:13:22 [main] [MethodUtil] - ✅ Scrolled to element Email
+[INFO] 02-05-2025 12:13:24 [main] [MethodUtil] - ✅ Scrolled to element Password
+[INFO] 02-05-2025 12:13:25 [main] [MethodUtil] - ✅ Scrolled to element Submit
+[INFO] 02-05-2025 12:13:41 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 12:14:16 [main] [MethodUtil] - ✅ Scrolled to element Path
+[INFO] 02-05-2025 12:15:50 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:16:10 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 12:16:26 [main] [MethodUtil] - ✅ Scrolled to element Review Button
+[INFO] 02-05-2025 12:16:28 [main] [MethodUtil] - ✅ Scrolled to element Reject Reason
+[INFO] 02-05-2025 12:16:30 [main] [MethodUtil] - Text Click to select is retrieved from Reject Reasons
+[INFO] 02-05-2025 12:16:30 [main] [MethodUtil] - Text I'd like to add or remove a language. is retrieved from Reject Reasons
+[INFO] 02-05-2025 12:16:30 [main] [MethodUtil] - Text I need my translation sooner. is retrieved from Reject Reasons
+[INFO] 02-05-2025 12:16:30 [main] [MethodUtil] - Text The quote seems a bit expensive. is retrieved from Reject Reasons
+[INFO] 02-05-2025 12:16:30 [main] [MethodUtil] - Text Reject quote altogether. is retrieved from Reject Reasons
+[INFO] 02-05-2025 12:16:30 [main] [MethodUtil] - Text Other is retrieved from Reject Reasons
+[INFO] 02-05-2025 12:16:30 [main] [MethodUtil] - ✅ Scrolled to element Reject Reasons
+[INFO] 02-05-2025 12:16:33 [main] [MethodUtil] - ✅ Scrolled to element Write Reason
+[INFO] 02-05-2025 12:16:34 [main] [MethodUtil] - ✅ Scrolled to element Send
+[INFO] 02-05-2025 12:16:35 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:16:56 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 12:17:45 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:17:46 [main] [MethodUtil] - ✅ Scrolled to element Sign In
+[INFO] 02-05-2025 12:17:56 [main] [MethodUtil] - ✅ Scrolled to element Email
+[INFO] 02-05-2025 12:17:57 [main] [MethodUtil] - ✅ Scrolled to element Password
+[INFO] 02-05-2025 12:17:57 [main] [MethodUtil] - ✅ Scrolled to element Submit
+[INFO] 02-05-2025 12:18:12 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 12:18:47 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:18:48 [main] [MethodUtil] - ✅ Scrolled to element Manage Account
+[INFO] 02-05-2025 12:18:55 [main] [MethodUtil] - ✅ Scrolled to element Profile Mangement
+[INFO] 02-05-2025 12:19:57 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:20:17 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 12:20:53 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:20:53 [main] [MethodUtil] - ✅ Scrolled to element Manage Account
+[INFO] 02-05-2025 12:20:55 [main] [MethodUtil] - ✅ Scrolled to element Billing pref
+[INFO] 02-05-2025 12:20:56 [main] [MethodUtil] - ✅ Scrolled to element Add Address
+[INFO] 02-05-2025 12:21:00 [main] [MethodUtil] - ✅ Scrolled to element BusinessName
+[INFO] 02-05-2025 12:21:00 [main] [MethodUtil] - ✅ Scrolled to element Address Name
+[INFO] 02-05-2025 12:21:01 [main] [MethodUtil] - ✅ Scrolled to element AddressLine1 
+[INFO] 02-05-2025 12:21:01 [main] [MethodUtil] - ✅ Scrolled to element AddressLine2 
+[INFO] 02-05-2025 12:21:02 [main] [MethodUtil] - ✅ Scrolled to element citY
+[INFO] 02-05-2025 12:21:03 [main] [MethodUtil] - ✅ Scrolled to element Country
+[INFO] 02-05-2025 12:21:04 [main] [MethodUtil] - Text Afghanistan is retrieved from country
+[INFO] 02-05-2025 12:21:04 [main] [MethodUtil] - ✅ Scrolled to element country
+[INFO] 02-05-2025 12:21:04 [main] [MethodUtil] - ✅ Scrolled to element State
+[INFO] 02-05-2025 12:21:05 [main] [MethodUtil] - ✅ Scrolled to element postal code
+[INFO] 02-05-2025 12:21:05 [main] [MethodUtil] - ✅ Scrolled to element Save
+[INFO] 02-05-2025 12:21:47 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:22:08 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 12:22:43 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:22:44 [main] [MethodUtil] - ✅ Scrolled to element Manage Account
+[INFO] 02-05-2025 12:22:45 [main] [MethodUtil] - ✅ Scrolled to element Billing pref
+[INFO] 02-05-2025 12:22:46 [main] [MethodUtil] - ✅ Scrolled to element Add Address
+[INFO] 02-05-2025 12:22:50 [main] [MethodUtil] - ✅ Scrolled to element BusinessName
+[INFO] 02-05-2025 12:22:50 [main] [MethodUtil] - ✅ Scrolled to element Address Name
+[INFO] 02-05-2025 12:22:51 [main] [MethodUtil] - ✅ Scrolled to element AddressLine1 
+[INFO] 02-05-2025 12:22:51 [main] [MethodUtil] - ✅ Scrolled to element AddressLine2 
+[INFO] 02-05-2025 12:22:52 [main] [MethodUtil] - ✅ Scrolled to element citY
+[INFO] 02-05-2025 12:22:52 [main] [MethodUtil] - ✅ Scrolled to element Country
+[INFO] 02-05-2025 12:22:53 [main] [MethodUtil] - Text Afghanistan is retrieved from country
+[INFO] 02-05-2025 12:22:53 [main] [MethodUtil] - ✅ Scrolled to element country
+[INFO] 02-05-2025 12:22:54 [main] [MethodUtil] - ✅ Scrolled to element State
+[INFO] 02-05-2025 12:22:54 [main] [MethodUtil] - ✅ Scrolled to element postal code
+[INFO] 02-05-2025 12:22:55 [main] [MethodUtil] - ✅ Scrolled to element Save
+[INFO] 02-05-2025 12:22:56 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 12:23:45 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:23:45 [main] [MethodUtil] - ✅ Scrolled to element Sign In
+[INFO] 02-05-2025 12:23:55 [main] [MethodUtil] - ✅ Scrolled to element Email
+[INFO] 02-05-2025 12:23:56 [main] [MethodUtil] - ✅ Scrolled to element Password
+[INFO] 02-05-2025 12:23:57 [main] [MethodUtil] - ✅ Scrolled to element Submit
+[INFO] 02-05-2025 12:24:37 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
+[INFO] 02-05-2025 12:24:37 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
+[INFO] 02-05-2025 12:24:41 [main] [MethodUtil] - ✅ Scrolled to element Translate from language
+[INFO] 02-05-2025 12:24:42 [main] [MethodUtil] - ✅ Scrolled to element Translate From Language
+[INFO] 02-05-2025 12:24:44 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
+[INFO] 02-05-2025 12:24:45 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
+[INFO] 02-05-2025 12:24:46 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
+[INFO] 02-05-2025 12:24:48 [main] [MethodUtil] - ✅ Scrolled to element Apply Button
+[INFO] 02-05-2025 12:29:11 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:29:12 [main] [MethodUtil] - ✅ Scrolled to element Sign In
+[INFO] 02-05-2025 12:29:21 [main] [MethodUtil] - ✅ Scrolled to element Email
+[INFO] 02-05-2025 12:29:22 [main] [MethodUtil] - ✅ Scrolled to element Password
+[INFO] 02-05-2025 12:29:23 [main] [MethodUtil] - ✅ Scrolled to element Submit
+[INFO] 02-05-2025 12:29:37 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 12:30:12 [main] [MethodUtil] - ✅ Scrolled to element Path
+[INFO] 02-05-2025 12:32:17 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:32:18 [main] [MethodUtil] - ✅ Scrolled to element Sign In
+[INFO] 02-05-2025 12:32:28 [main] [MethodUtil] - ✅ Scrolled to element Email
+[INFO] 02-05-2025 12:32:30 [main] [MethodUtil] - ✅ Scrolled to element Password
+[INFO] 02-05-2025 12:32:31 [main] [MethodUtil] - ✅ Scrolled to element Submit
+[INFO] 02-05-2025 12:32:46 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 12:33:22 [main] [MethodUtil] - ✅ Scrolled to element Path
+[INFO] 02-05-2025 12:38:31 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:38:32 [main] [MethodUtil] - ✅ Scrolled to element Sign In
+[INFO] 02-05-2025 12:38:52 [main] [MethodUtil] - ✅ Scrolled to element Email
+[INFO] 02-05-2025 12:38:53 [main] [MethodUtil] - ✅ Scrolled to element Password
+[INFO] 02-05-2025 12:38:54 [main] [MethodUtil] - ✅ Scrolled to element Submit
+[INFO] 02-05-2025 12:39:10 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 12:39:45 [main] [MethodUtil] - ✅ Scrolled to element Path
+[INFO] 02-05-2025 12:40:17 [main] [MethodUtil] - ✅ Scrolled to element Next Button
+[INFO] 02-05-2025 12:40:17 [main] [MethodUtil] - ✅ Scrolled to element Translate From
+[INFO] 02-05-2025 12:40:18 [main] [MethodUtil] - Text Arabic (Saudi Arabia) is retrieved from Translate From Option
+[INFO] 02-05-2025 12:40:18 [main] [MethodUtil] - Text Chinese (Simplified, China) is retrieved from Translate From Option
+[INFO] 02-05-2025 12:40:18 [main] [MethodUtil] - ✅ Scrolled to element Translate From Option
+[INFO] 02-05-2025 12:40:19 [main] [MethodUtil] - ✅ Scrolled to element Translate to
+[INFO] 02-05-2025 12:40:20 [main] [MethodUtil] - ✅ Scrolled to element Translate to
+[INFO] 02-05-2025 12:40:20 [main] [MethodUtil] - ✅ Scrolled to element Next Button
+[INFO] 02-05-2025 12:40:21 [main] [MethodUtil] - ✅ Scrolled to element Send Me A Quote
+[INFO] 02-05-2025 12:40:30 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:40:51 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 12:41:06 [main] [MethodUtil] - ✅ Scrolled to element Review Button
+[INFO] 02-05-2025 12:41:08 [main] [MethodUtil] - ✅ Scrolled to element Reject Reason
+[INFO] 02-05-2025 12:41:09 [main] [MethodUtil] - Text Click to select is retrieved from Reject Reasons
+[INFO] 02-05-2025 12:41:09 [main] [MethodUtil] - Text I'd like to add or remove a language. is retrieved from Reject Reasons
+[INFO] 02-05-2025 12:41:09 [main] [MethodUtil] - Text I need my translation sooner. is retrieved from Reject Reasons
+[INFO] 02-05-2025 12:41:09 [main] [MethodUtil] - Text The quote seems a bit expensive. is retrieved from Reject Reasons
+[INFO] 02-05-2025 12:41:09 [main] [MethodUtil] - Text Reject quote altogether. is retrieved from Reject Reasons
+[INFO] 02-05-2025 12:41:09 [main] [MethodUtil] - Text Other is retrieved from Reject Reasons
+[INFO] 02-05-2025 12:41:09 [main] [MethodUtil] - ✅ Scrolled to element Reject Reasons
+[INFO] 02-05-2025 12:41:12 [main] [MethodUtil] - ✅ Scrolled to element Write Reason
+[INFO] 02-05-2025 12:41:12 [main] [MethodUtil] - ✅ Scrolled to element Send
+[INFO] 02-05-2025 12:41:14 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:41:35 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 12:41:53 [main] [MethodUtil] - ✅ Scrolled to element Approve Button
+[INFO] 02-05-2025 12:42:14 [main] [MethodUtil] - ✅ Scrolled to element Terms Of Use Checkbox
+[INFO] 02-05-2025 12:42:15 [main] [MethodUtil] - ✅ Scrolled to element Approve Quote
+[INFO] 02-05-2025 12:49:34 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:49:35 [main] [MethodUtil] - ✅ Scrolled to element Sign In
+[INFO] 02-05-2025 12:49:44 [main] [MethodUtil] - ✅ Scrolled to element Email
+[INFO] 02-05-2025 12:49:44 [main] [MethodUtil] - ✅ Scrolled to element Password
+[INFO] 02-05-2025 12:49:45 [main] [MethodUtil] - ✅ Scrolled to element Submit
+[INFO] 02-05-2025 12:49:55 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 12:50:31 [main] [MethodUtil] - ✅ Scrolled to element Path
+[INFO] 02-05-2025 12:50:56 [main] [MethodUtil] - ✅ Scrolled to element Next Button
+[INFO] 02-05-2025 12:50:57 [main] [MethodUtil] - ✅ Scrolled to element Translate From
+[INFO] 02-05-2025 12:50:58 [main] [MethodUtil] - Text Arabic (Saudi Arabia) is retrieved from Translate From Option
+[INFO] 02-05-2025 12:50:58 [main] [MethodUtil] - Text Chinese (Simplified, China) is retrieved from Translate From Option
+[INFO] 02-05-2025 12:50:58 [main] [MethodUtil] - ✅ Scrolled to element Translate From Option
+[INFO] 02-05-2025 12:50:58 [main] [MethodUtil] - ✅ Scrolled to element Translate to
+[INFO] 02-05-2025 12:50:59 [main] [MethodUtil] - ✅ Scrolled to element Translate to
+[INFO] 02-05-2025 12:50:59 [main] [MethodUtil] - ✅ Scrolled to element Next Button
+[INFO] 02-05-2025 12:50:59 [main] [MethodUtil] - ✅ Scrolled to element Send Me A Quote
+[INFO] 02-05-2025 12:51:08 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:51:29 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 12:51:44 [main] [MethodUtil] - ✅ Scrolled to element Review Button
+[INFO] 02-05-2025 12:51:47 [main] [MethodUtil] - ✅ Scrolled to element Reject Reason
+[INFO] 02-05-2025 12:51:47 [main] [MethodUtil] - Text Click to select is retrieved from Reject Reasons
+[INFO] 02-05-2025 12:51:47 [main] [MethodUtil] - Text I'd like to add or remove a language. is retrieved from Reject Reasons
+[INFO] 02-05-2025 12:51:47 [main] [MethodUtil] - Text I need my translation sooner. is retrieved from Reject Reasons
+[INFO] 02-05-2025 12:51:47 [main] [MethodUtil] - Text The quote seems a bit expensive. is retrieved from Reject Reasons
+[INFO] 02-05-2025 12:51:47 [main] [MethodUtil] - Text Reject quote altogether. is retrieved from Reject Reasons
+[INFO] 02-05-2025 12:51:47 [main] [MethodUtil] - Text Other is retrieved from Reject Reasons
+[INFO] 02-05-2025 12:51:47 [main] [MethodUtil] - ✅ Scrolled to element Reject Reasons
+[INFO] 02-05-2025 12:51:50 [main] [MethodUtil] - ✅ Scrolled to element Write Reason
+[INFO] 02-05-2025 12:51:50 [main] [MethodUtil] - ✅ Scrolled to element Send
+[INFO] 02-05-2025 12:51:51 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:52:12 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 12:52:30 [main] [MethodUtil] - ✅ Scrolled to element Approve Button
+[INFO] 02-05-2025 12:52:51 [main] [MethodUtil] - ✅ Scrolled to element Terms Of Use Checkbox
+[INFO] 02-05-2025 12:52:52 [main] [MethodUtil] - ✅ Scrolled to element Approve Quote
+[INFO] 02-05-2025 12:52:54 [main] [MethodUtil] - ✅ Scrolled to element Select Address
+[INFO] 02-05-2025 12:52:54 [main] [MethodUtil] - ✅ Scrolled to element Next
+[INFO] 02-05-2025 12:52:58 [main] [MethodUtil] - ✅ Scrolled to element Next
+[INFO] 02-05-2025 12:53:02 [main] [MethodUtil] - ✅ Scrolled to element Card Number
+[INFO] 02-05-2025 12:53:06 [main] [MethodUtil] - ✅ Scrolled to element Adfasf
+[INFO] 02-05-2025 12:53:06 [main] [MethodUtil] - ✅ Scrolled to element Expiry Month
+[INFO] 02-05-2025 12:53:06 [main] [MethodUtil] - ✅ Scrolled to element Year
+[INFO] 02-05-2025 12:53:06 [main] [MethodUtil] - ✅ Scrolled to element Security Code
+[INFO] 02-05-2025 12:53:07 [main] [MethodUtil] - ✅ Scrolled to element Submit Button
+[INFO] 02-05-2025 12:53:43 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:53:44 [main] [MethodUtil] - ✅ Scrolled to element Sign In
+[INFO] 02-05-2025 12:53:53 [main] [MethodUtil] - ✅ Scrolled to element Email
+[INFO] 02-05-2025 12:53:54 [main] [MethodUtil] - ✅ Scrolled to element Password
+[INFO] 02-05-2025 12:53:54 [main] [MethodUtil] - ✅ Scrolled to element Submit
+[INFO] 02-05-2025 12:54:05 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 12:54:40 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:54:40 [main] [MethodUtil] - ✅ Scrolled to element Manage Account
+[INFO] 02-05-2025 12:54:42 [main] [MethodUtil] - ✅ Scrolled to element Profile Mangement
+[INFO] 02-05-2025 12:55:43 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:56:04 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 12:56:40 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:56:40 [main] [MethodUtil] - ✅ Scrolled to element Manage Account
+[INFO] 02-05-2025 12:56:41 [main] [MethodUtil] - ✅ Scrolled to element Billing pref
+[INFO] 02-05-2025 12:56:42 [main] [MethodUtil] - ✅ Scrolled to element Add Address
+[INFO] 02-05-2025 12:56:46 [main] [MethodUtil] - ✅ Scrolled to element BusinessName
+[INFO] 02-05-2025 12:56:46 [main] [MethodUtil] - ✅ Scrolled to element Address Name
+[INFO] 02-05-2025 12:56:46 [main] [MethodUtil] - ✅ Scrolled to element AddressLine1 
+[INFO] 02-05-2025 12:56:47 [main] [MethodUtil] - ✅ Scrolled to element AddressLine2 
+[INFO] 02-05-2025 12:56:47 [main] [MethodUtil] - ✅ Scrolled to element citY
+[INFO] 02-05-2025 12:56:47 [main] [MethodUtil] - ✅ Scrolled to element Country
+[INFO] 02-05-2025 12:56:48 [main] [MethodUtil] - Text Afghanistan is retrieved from country
+[INFO] 02-05-2025 12:56:48 [main] [MethodUtil] - ✅ Scrolled to element country
+[INFO] 02-05-2025 12:56:48 [main] [MethodUtil] - ✅ Scrolled to element State
+[INFO] 02-05-2025 12:56:49 [main] [MethodUtil] - ✅ Scrolled to element postal code
+[INFO] 02-05-2025 12:56:49 [main] [MethodUtil] - ✅ Scrolled to element Save
+[INFO] 02-05-2025 12:57:31 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:57:52 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 12:58:27 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:58:28 [main] [MethodUtil] - ✅ Scrolled to element Manage Account
+[INFO] 02-05-2025 12:58:29 [main] [MethodUtil] - ✅ Scrolled to element Billing pref
+[INFO] 02-05-2025 12:58:30 [main] [MethodUtil] - ✅ Scrolled to element Add Address
+[INFO] 02-05-2025 12:58:33 [main] [MethodUtil] - ✅ Scrolled to element BusinessName
+[INFO] 02-05-2025 12:58:33 [main] [MethodUtil] - ✅ Scrolled to element Address Name
+[INFO] 02-05-2025 12:58:34 [main] [MethodUtil] - ✅ Scrolled to element AddressLine1 
+[INFO] 02-05-2025 12:58:34 [main] [MethodUtil] - ✅ Scrolled to element AddressLine2 
+[INFO] 02-05-2025 12:58:34 [main] [MethodUtil] - ✅ Scrolled to element citY
+[INFO] 02-05-2025 12:58:35 [main] [MethodUtil] - ✅ Scrolled to element Country
+[INFO] 02-05-2025 12:58:36 [main] [MethodUtil] - Text Afghanistan is retrieved from country
+[INFO] 02-05-2025 12:58:36 [main] [MethodUtil] - ✅ Scrolled to element country
+[INFO] 02-05-2025 12:58:36 [main] [MethodUtil] - ✅ Scrolled to element State
+[INFO] 02-05-2025 12:58:36 [main] [MethodUtil] - ✅ Scrolled to element postal code
+[INFO] 02-05-2025 12:58:36 [main] [MethodUtil] - ✅ Scrolled to element Save
+[INFO] 02-05-2025 12:58:37 [main] [MethodUtil] - ✅ Scrolled to element HomePage
+[INFO] 02-05-2025 12:58:56 [main] [MethodUtil] - ✅ Scrolled to element Approve Button
+[INFO] 02-05-2025 12:59:16 [main] [MethodUtil] - ✅ Scrolled to element Terms Of Use Checkbox
+[INFO] 02-05-2025 12:59:17 [main] [MethodUtil] - ✅ Scrolled to element Approve Quote
+[INFO] 02-05-2025 12:59:19 [main] [MethodUtil] - ✅ Scrolled to element Select Address
+[INFO] 02-05-2025 12:59:19 [main] [MethodUtil] - ✅ Scrolled to element Next
+[INFO] 02-05-2025 12:59:24 [main] [MethodUtil] - ✅ Scrolled to element Next
+[INFO] 02-05-2025 12:59:51 [main] [MethodUtil] - ✅ Scrolled to element Account Button
+[INFO] 02-05-2025 12:59:51 [main] [MethodUtil] - ✅ Scrolled to element Sign In
+[INFO] 02-05-2025 13:00:02 [main] [MethodUtil] - ✅ Scrolled to element Email
+[INFO] 02-05-2025 13:00:03 [main] [MethodUtil] - ✅ Scrolled to element Password
+[INFO] 02-05-2025 13:00:03 [main] [MethodUtil] - ✅ Scrolled to element Submit
+[INFO] 02-05-2025 13:00:40 [main] [MethodUtil] - ✅ Scrolled to element Filter Button
+[INFO] 02-05-2025 13:00:40 [main] [MethodUtil] - ✅ Scrolled to element Translate From Button
+[INFO] 02-05-2025 13:00:43 [main] [MethodUtil] - ✅ Scrolled to element Translate from language
+[INFO] 02-05-2025 13:00:44 [main] [MethodUtil] - ✅ Scrolled to element Translate From Language
+[INFO] 02-05-2025 13:00:46 [main] [MethodUtil] - ✅ Scrolled to element Translate To Button
+[INFO] 02-05-2025 13:00:46 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
+[INFO] 02-05-2025 13:00:46 [main] [MethodUtil] - ✅ Scrolled to element Translate to language
+[INFO] 02-05-2025 13:00:48 [main] [MethodUtil] - ✅ Scrolled to element Apply Button

@@ -10,10 +10,11 @@ import org.openqa.selenium.support.PageFactory;
 public class LoginPageElement {
 
     WebDriver driver;
+
     public LoginPageElement(WebDriver driver1)
     {
        this.driver = driver1;
-        PageFactory.initElements(driver1, this);
+       PageFactory.initElements(driver1, this);
     }
 
  /*   WebElement register = driver.findElement(By.xpath("//button[@id='Register-id']"));

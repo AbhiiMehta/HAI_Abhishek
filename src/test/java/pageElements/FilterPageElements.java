@@ -18,6 +18,15 @@ public class FilterPageElements {
         PageFactory.initElements(driver1, this);
     }
 
+    @FindBy(xpath="//span[contains(text(),'Filter')]")
+    WebElement filterWord;
+
+    public  WebElement getFilterWord()
+    {
+        return filterWord;
+    }
+
+
     @FindBy(xpath="//span[text()='Filter']")
     WebElement filter;
 

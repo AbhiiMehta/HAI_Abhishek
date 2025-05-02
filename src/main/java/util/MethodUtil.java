@@ -271,7 +271,7 @@ public class MethodUtil {
                 System.out.println(elementName + " is displayed");
                 flag = true;
             }
-        } catch (Exception e) {
+        } catch (NoSuchElementException | StaleElementReferenceException e) {
             System.err.println(elementName + " is not displayed");
             flag = false;
         }

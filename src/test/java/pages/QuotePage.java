@@ -19,7 +19,7 @@ public class QuotePage extends QuotePageElements {
 
     public void createQuote()
     {
-        String path ="D:\\HAI\\Testing Files\\500words.rtf";
+        String path ="D:\\HAI\\Testing Files\\Word.rtf";
         MethodUtil.clickElementWithJS(getRequestQuote(), "Request Quote");
         MethodUtil.clickElement(getCountryList(), "Country List Button");
         MethodUtil.selectOptionFromDropDown(getCountryListOption(),"Country List" ,"Egypt");
@@ -51,7 +51,7 @@ public class QuotePage extends QuotePageElements {
         MethodUtil.enterText(getuploadBtn(), "Path", path);
         MethodUtil.threadSleep(10);
         if (MethodUtil.isDisplayed(getDisabledNextButton(), "Disabled Next Button")) {
-            MethodUtil.threadSleep(5);
+            MethodUtil.threadSleep(15);
         }
         MethodUtil.clickElementWithJS(getNxtBtn2(), "Next Button");
 

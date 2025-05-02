@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/abhishek.mehta/Downloads/CucumberFramework-master/HAI_Abhishek">
+        <classes>
+            <class name="Testing.TestRunnerQuoteCreation"/>
+            <class name="Testing.TestRunnerAccManage"/>
+            <class name="Testing.TestRunnerFilter"></class>
+        </classes>
+    </test>
+</suite>

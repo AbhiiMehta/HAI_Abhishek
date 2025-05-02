@@ -1,7 +1,7 @@
 Feature: Account Management
 
   Background: Returning on Homepage
-  Given click on homepage
+  Given user is logged in acc
 
   Scenario: Business User - Add contact number in Profile Management
     When Click on Profile Management in the Account Management page

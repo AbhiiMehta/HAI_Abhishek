@@ -1,5 +1,6 @@
 package pages;
 
+import org.apache.commons.collections4.bag.SynchronizedSortedBag;
 import org.openqa.selenium.WebDriver;
 import pageElements.AccManageElements;
 import util.MethodUtil;
@@ -17,8 +18,13 @@ public class AccManagePage extends AccManageElements {
     }
 
     public void addContact(){
-        MethodUtil.clickElementWithJS(getAddContactBtn(), "Add Contact");
-        MethodUtil.enterText(getEnterContactNum(), "Enter Contact", "5556664455");
+        if(MethodUtil.isDisplayed(getAddContactBtn(),"Add Contact")) {
+            MethodUtil.clickElementWithJS(getAddContactBtn(), "Add Contact");
+            MethodUtil.enterText(getEnterContactNum(), "Enter Contact", "5556664455");
+        }
+        else {
+            System.out.println("Contact Number is already added");
+        }
     }
 
         public void saveContact(){

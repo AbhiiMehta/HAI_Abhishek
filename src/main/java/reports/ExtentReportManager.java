@@ -21,7 +21,7 @@ public class ExtentReportManager {
         if (Objects.isNull(extentReports)) {
             extentReports = new ExtentReports();
         }
-        ExtentSparkReporter spark = new ExtentSparkReporter("C:\\Users\\abhishek.mehta\\Downloads\\CucumberFramework-master\\HAI\\ExtentReports");
+        ExtentSparkReporter spark = new ExtentSparkReporter("C:\\Users\\abhishek.mehta\\Downloads\\CucumberFramework-master\\HAI_Abhishek\\ExtentReports");
         extentReports.attachReporter(spark);
         spark.config().setTheme(Theme.STANDARD);
         spark.config().setDocumentTitle("Abhishek Report");
